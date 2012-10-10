@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/tzepesh06/laborator_ri
+git pull
+git add NUME FISIER
+git commit -m "MESAJ"
+git push
