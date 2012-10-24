@@ -1,0 +1,3 @@
+Popescu;5
+Ma-ta;10
+Tac-tu;9
